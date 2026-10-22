@@ -11,6 +11,7 @@ python scaffold.py
 ## Steps
 
 - [x] **1.** load_boston
+- [x] **2.** regression_tree
 
 ---
 
